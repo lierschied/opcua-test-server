@@ -1,6 +1,6 @@
 # opcua-test-server
 
-For bulding on Mac:
+For building on Mac:
 1. Install openssl <code>brew install openssl</code>
 
 For building on Linux:
