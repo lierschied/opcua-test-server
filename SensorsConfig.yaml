@@ -129,13 +129,13 @@ sensors:
     id: '"+AM-BL1_Füllstand"'
     node_id: 3
     browse_name: "3:+AM-BL1_Füllstand"
-    display_name: "(en-US) +AM-BL1_F√ºllstand"
+    display_name: "(en-US) +AM-BL1_Füllstand"
     value: "int"
   -
     id: '"+AO-BL2_Füllstand"'
     node_id: 3
     browse_name: "3:+AO-BL2_Füllstand"
-    display_name: "(en-US) +AO-BL2_F√ºllstand"
+    display_name: "(en-US) +AO-BL2_Füllstand"
     value: "int"
   -
     id: '"+AL-MA1.Rechtslauf"'
