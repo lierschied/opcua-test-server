@@ -1,0 +1,229 @@
+sensors:
+  -
+    id: '"+AL-BG2_BandsensorRechts"'
+    node_id: 3
+    browse_name: "3:+AL-BG2_BandsensorRechts"
+    display_name: "(en-US) +AL-BG2_BandsensorRechts"
+    value: "bool"
+  -
+    id: '"+AL-BG1_BandsensorLinks"'
+    node_id: 3
+    browse_name: "3:+AL-BG1_BandsensorLinks"
+    display_name: "(en-US) +AL-BG1_BandsensorLinks"
+    value: "bool"
+  -
+    id: '"+AL-BG4_StopperRechts"'
+    node_id: 3
+    browse_name: "3:+AL-BG4_StopperRechts"
+    display_name: "(en-US) +AL-BG4_StopperRechts"
+    value: "bool"
+  -
+    id: '"+AL-BG3_StopperLinks"'
+    node_id: 3
+    browse_name: "3:+AL-BG3_StopperLinks"
+    display_name: "(en-US) +AL-BG3_StopperLinks"
+    value: "bool"
+  -
+    id: '"+AO-BG2_PosRechts"'
+    node_id: 3
+    browse_name: "3:+AO-BG2_PosRechts"
+    display_name: "(en-US) +AO-BG2_PosRechts"
+    value: "bool"
+  -
+    id: '"+AO-BG3_StopperLinks"'
+    node_id: 3
+    browse_name: "3:+AO-BG3_StopperLinks"
+    display_name: "(en-US) +AO-BG3_StopperLinks"
+    value: "bool"
+  -
+    id: '"+AO-BG1_PosLinks"'
+    node_id: 3
+    browse_name: "3:+AO-BG1_PosLinks"
+    display_name: "(en-US) +AO-BG1_PosLinks"
+    value: "bool"
+  -
+    id: '"+AO-BG4_StopperRechts"'
+    node_id: 3
+    browse_name: "3:+AO-BG4_StopperRechts"
+    display_name: "(en-US) +AO-BG4_StopperRechts"
+    value: "bool"
+  -
+    id: '"+AO-BG5_VereinzelerOffen"'
+    node_id: 3
+    browse_name: "3:+AO-BG5_VereinzelerOffen"
+    display_name: "(en-US) +AO-BG5_VereinzelerOffen"
+    value: "bool"
+  -
+    id: '"+AO-BG6_HubUnten"'
+    node_id: 3
+    browse_name: "3:+AO-BG6_HubUnten"
+    display_name: "(en-US) +AO-BG6_HubUnten"
+    value: "bool"
+  -
+    id: '"+AO-BG7_HubMitte"'
+    node_id: 3
+    browse_name: "3:+AO-BG7_HubMitte"
+    display_name: "(en-US) +AO-BG7_HubMitte"
+    value: "bool"
+  -
+    id: '"+AO-BG8_HubOben"'
+    node_id: 3
+    browse_name: "3:+AO-BG8_HubOben"
+    display_name: "(en-US) +AO-BG8_HubOben"
+    value: "bool"
+  -
+    id: '"+AM-BG1_PosLinks"'
+    node_id: 3
+    browse_name: "3:+AM-BG1_PosLinks"
+    display_name: "(en-US) +AM-BG1_PosLinks"
+    value: "bool"
+  -
+    id: '"+AM-BG2_PosRechts"'
+    node_id: 3
+    browse_name: "3:+AM-BG2_PosRechts"
+    display_name: "(en-US) +AM-BG2_PosRechts"
+    value: "bool"
+  -
+    id: '"+AM-BG3_StopperLinks"'
+    node_id: 3
+    browse_name: "3:+AM-BG3_StopperLinks"
+    display_name: "(en-US) +AM-BG3_StopperLinks"
+    value: "bool"
+  -
+    id: '"+AM-BG4_StopperRechts"'
+    node_id: 3
+    browse_name: "3:+AM-BG4_StopperRechts"
+    display_name: "(en-US) +AM-BG4_StopperRechts"
+    value: "bool"
+  -
+    id: '"+AM-BG5_VereinzelerOffen"'
+    node_id: 3
+    browse_name: "3:+AM-BG5_VereinzelerOffen"
+    display_name: "(en-US) +AM-BG5_VereinzelerOffen"
+    value: "bool"
+  -
+    id: '"+AM-BG6_HubUnten"'
+    node_id: 3
+    browse_name: "3:+AM-BG6_HubUnten"
+    display_name: "(en-US) +AM-BG6_HubUnten"
+    value: "bool"
+  -
+    id: '"+AM-BG7_HubMitte"'
+    node_id: 3
+    browse_name: "3:+AM-BG7_HubMitte"
+    display_name: "(en-US) +AM-BG7_HubMitte"
+    value: "bool"
+  -
+    id: '"+AM-BG8_HubOben"'
+    node_id: 3
+    browse_name: "3:+AM-BG8_HubOben"
+    display_name: "(en-US) +AM-BG8_HubOben"
+    value: "bool"
+  -
+    id: '"+AN-BG1_InduktivUnten"'
+    node_id: 3
+    browse_name: "3:+AN-BG1_InduktivUnten"
+    display_name: "(en-US) +AN-BG1_InduktivUnten"
+    value: "bool"
+  -
+    id: '"+AM-BL1_Füllstand"'
+    node_id: 3
+    browse_name: "3:+AM-BL1_Füllstand"
+    display_name: "(en-US) +AM-BL1_F√ºllstand"
+    value: "int"
+  -
+    id: '"+AO-BL2_Füllstand"'
+    node_id: 3
+    browse_name: "3:+AO-BL2_Füllstand"
+    display_name: "(en-US) +AO-BL2_F√ºllstand"
+    value: "int"
+  -
+    id: '"+AL-MA1.Rechtslauf"'
+    node_id: 3
+    browse_name: "3:+AL-MA1.Rechtslauf"
+    display_name: "(en-US) +AL-MA1.Rechtslauf"
+    value: "bool"
+  -
+    id: '"+AL-MA1.Linkslauf"'
+    node_id: 3
+    browse_name: "3:+AL-MA1.Linkslauf"
+    display_name: "(en-US) +AL-MA1.Linkslauf"
+    value: "bool"
+  -
+    id: '"+AL-MB2_StopperRechts"'
+    node_id: 3
+    browse_name: "3:+AL-MB2_StopperRechts"
+    display_name: "(en-US) +AL-MB2_StopperRechts"
+    value: "bool"
+  -
+    id: '"+AL-MB1_StopperLinks"'
+    node_id: 3
+    browse_name: "3:+AL-MB1_StopperLinks"
+    display_name: "(en-US) +AL-MB1_StopperLinks"
+    value: "bool"
+  -
+    id: '"+AL-MA1.Vmax"'
+    node_id: 3
+    browse_name: "3:+AL-MA1.Vmax"
+    display_name: "(en-US) +AL-MA1.Vmax"
+    value: "bool"
+  -
+    id: '"+AO-MB1_StopperLinks"'
+    node_id: 3
+    browse_name: "3:+AO-MB1_StopperLinks"
+    display_name: "(en-US) +AO-MB1_StopperLinks"
+    value: "bool"
+  -
+    id: '"+AO-MB2_StopperRechts"'
+    node_id: 3
+    browse_name: "3:+AO-MB2_StopperRechts"
+    display_name: "(en-US) +AO-MB2_StopperRechts"
+    value: "bool"
+  -
+    id: '"+AO-MB3_Vereinzeler"'
+    node_id: 3
+    browse_name: "3:+AO-MB3_Vereinzeler"
+    display_name: "(en-US) +AO-MB3_Vereinzeler"
+    value: "bool"
+  -
+    id: '"+AO-MB4_HubUnten"'
+    node_id: 3
+    browse_name: "3:+AO-MB4_HubUnten"
+    display_name: "(en-US) +AO-MB4_HubUnten"
+    value: "bool"
+  -
+    id: '"+AO-MB5_HubOben"'
+    node_id: 3
+    browse_name: "3:+AO-MB5_HubOben"
+    display_name: "(en-US) +AO-MB5_HubOben"
+    value: "bool"
+  -
+    id: '"+AM-MB1_StopperLinks"'
+    node_id: 3
+    browse_name: "3:+AM-MB1_StopperLinks"
+    display_name: "(en-US) +AM-MB1_StopperLinks"
+    value: "bool"
+  -
+    id: '"+AM-MB2_StopperRechts"'
+    node_id: 3
+    browse_name: "3:+AM-MB2_StopperRechts"
+    display_name: "(en-US) +AM-MB2_StopperRechts"
+    value: "bool"
+  -
+    id: '"+AM-MB3_Vereinzeler"'
+    node_id: 3
+    browse_name: "3:+AM-MB3_Vereinzeler"
+    display_name: "(en-US) +AM-MB3_Vereinzeler"
+    value: "bool"
+  -
+    id: '"+AM-MB4_HubUnten"'
+    node_id: 3
+    browse_name: "3:+AM-MB4_HubUnten"
+    display_name: "(en-US) +AM-MB4_HubUnten"
+    value: "bool"
+  -
+    id: '"+AM-MB5_HubOben"'
+    node_id: 3
+    browse_name: "3:+AM-MB5_HubOben"
+    display_name: "(en-US) +AM-MB5_HubOben"
+    value: "bool"
